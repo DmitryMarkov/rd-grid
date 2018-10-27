@@ -1,0 +1,66 @@
+# Builds
+dist
+package*
+
+# Bundle analyzer
+report.html
+
+# CI
+.coveralls.yml
+.travis.yml
+
+# Configs
+.editorconfig
+.eslintignore
+.eslintrc
+.gitattributes
+.gitignore
+.huskyrc
+.npmignore
+.npmrc
+.out
+.prettierrc
+.storybook
+.stylelintrc
+babel.config.js
+jest.config.js
+
+# IDE
+.idea
+.vscode
+
+# macOS files
+.DS_Store
+
+# Node
+node
+
+# Npm & Yarn files
+npm-debug.log
+package-lock.json
+yarn-error.log
+yarn.lock
+
+# Project files
+public
+src
+
+# Scripts
+scripts
+
+# Webpack files
+devServer.js
+postcss.config.js
+postinstall.js
+prodServer.js
+webpack.config*
+
+# Webpack stats
+*stats.json
+
+# Tarball files
+*.tgz
+
+# Test
+coverage
+setupTests.js

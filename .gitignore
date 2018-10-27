@@ -1,0 +1,33 @@
+# Builds
+.out
+dist
+package
+
+# Bundle analyzer
+report.html
+
+# IDE
+.idea
+.vscode
+
+# macOS files
+.DS_Store
+
+# Node
+node
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Webpack stats
+*stats.json
+
+# Tarball files
+*.tgz
+
+# Test
+coverage
+
+#lerna
+lerna-debug.log
+packages/*/lib

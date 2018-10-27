@@ -1,0 +1,24 @@
+{
+  "name": "@rd-grid/renderers",
+  "version": "0.0.0",
+  "description": "RD Grid renderers",
+  "author": "DmitryMarkov <npm@stylive.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/renderers.js",
+  "typings": "lib/core.d.ts",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "acceess": "public"
+  },
+  "scripts": {
+    "tsc": "tsc",
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}
