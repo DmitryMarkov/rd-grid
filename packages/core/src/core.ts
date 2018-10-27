@@ -1,5 +1,5 @@
 export class Core {
   get(id) {
-    return { id, test: 1 }
+    return { id, test: 2 }
   }
 }
