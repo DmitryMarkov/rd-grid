@@ -5,9 +5,9 @@
     "lodash": ">=4.17.15"
   },
   "devDependencies": {
-    "@types/node": "^10.14.14",
-    "lerna": "^3.16.4",
-    "typescript": "^3.5.3"
+    "@types/node": "10.17.26",
+    "lerna": "3.22.1",
+    "typescript": "3.9.6"
   },
   "scripts": {
     "publish": "lerna run tsc && lerna publish"
